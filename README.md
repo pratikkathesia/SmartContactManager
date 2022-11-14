@@ -10,6 +10,9 @@ A web-app to add, view and update your contact list.
 # This is the user's personal home page. 
 ![Screenshot (200)](https://user-images.githubusercontent.com/56655031/201619283-b1236e0b-a7ca-4167-9068-ca6a50ba08ef.png)
 
+# From add contact,user can add new contact with all details and also can use image for profile. 
+![Screenshot (206)](https://user-images.githubusercontent.com/56655031/201620720-fe4bd707-56b7-4d56-bead-55e04f12a169.png)
+
 # From your profile, user can see into his/her profile. 
 ![Screenshot (201)](https://user-images.githubusercontent.com/56655031/201619391-a81b11bb-5078-4837-8244-08d1739b44d3.png)
 

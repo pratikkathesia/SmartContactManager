@@ -1,6 +1,12 @@
 # SmartContactManager
 A web-app to add, view and update your contact list. 
 
+# Used technology and features
+- HTML, CSS, Java, Springboot, Maven, Spring Security, Hibernate
+- Featured with Pagination and image upload service
+- Each user can have multiple contacts and there can be multiple users
+- Secured with GET and POST method when needed
+
 # Here, I have developed main web page. 
 ![Screenshot (198)](https://user-images.githubusercontent.com/56655031/201618708-889a3ba9-97e6-4995-96b0-2e186e374d84.png)
 

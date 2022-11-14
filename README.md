@@ -2,7 +2,7 @@
 A web-app to add, view and update your contact list. 
 
 # Used technology and features
-- HTML, CSS, Java, Springboot, Maven, Spring Security, Hibernate
+- HTML, CSS, Java, Springboot, Maven, Spring Security, Hibernate, MySQL Database connection
 - Featured with Pagination and image upload service
 - Each user can have multiple contacts and there can be multiple users
 - Secured with GET and POST method when needed
